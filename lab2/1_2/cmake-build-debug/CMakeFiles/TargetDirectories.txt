@@ -1,0 +1,3 @@
+D:/cursuri_sem_2/sd/lab/lab2/1_2/cmake-build-debug/CMakeFiles/1_2.dir
+D:/cursuri_sem_2/sd/lab/lab2/1_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/cursuri_sem_2/sd/lab/lab2/1_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
